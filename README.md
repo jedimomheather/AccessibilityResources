@@ -41,3 +41,9 @@ https://inclusive.microsoft.design/
 ### **Accessibility Properties for Power Apps**
 https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/controls/properties-accessibility
 
+### **Windows Narrator**
+https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1
+
+### **Github Accessibility Scanner**
+https://github.com/github/accessibility-scanner
+
