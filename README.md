@@ -9,6 +9,8 @@ A curated collection of tools, guidelines, and references to support accessible 
 ### **NVDA (NonVisual Desktop Access)**
 Download: https://www.nvaccess.org/download/
 
+### **Windows Narrator**
+https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1
 ---
 
 ## 📘 Accessibility Standards & Guidelines
@@ -40,6 +42,9 @@ https://inclusive.microsoft.design/
 
 ### **Accessibility Properties for Power Apps**
 https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/controls/properties-accessibility
+
+### Ignite 2025 Accessibility Sessions
+https://ignite.microsoft.com/en-US/sessions?filter=topic%2FlogicalValue%3EOther%09Accessibility
 
 ### **Windows Narrator**
 https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1
